@@ -488,8 +488,8 @@ h6 {
 }
 .rangestyle::-webkit-slider-thumb{
   -webkit-appearance:none;
-  width: 20px;
-  height: 20px;
+  width: 19px;
+  height: 19px;
   background-color: white;
   border:1.5px solid #c4c4c4;
   border-radius: 50%;
